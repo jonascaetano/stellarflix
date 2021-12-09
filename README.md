@@ -4,4 +4,4 @@
 
 
 
-Click [here](https://jonascaetano.github.io/project-netflix/) to access!
+Click [here](https://jonascaetano.github.io/stellarflix/) to access!
